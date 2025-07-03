@@ -1,17 +1,17 @@
 {
   "graphics_mods": {
     "mod1": {
-      "mod_name": "VisualV",
-      "mod_description": "description here",
-      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/VisualV.jpg",
+      "mod_name": "Project: Revive",
+      "mod_description": "Project: Revive is a captivating modification for Grand Theft Auto V that revitalizes the game's urban landscape with a fresh, atmospheric overhaul. As depicted in the image, this mod introduces a vibrant nighttime cityscape featuring illuminated buildings, bustling streets, and a starry sky, creating a lively yet serene ambiance. With enhanced lighting, detailed architecture, and a modern aesthetic, Project: Revive breathes new life into Los Santos, offering players an immersive and visually striking experience that elevates the game's original environment.",
+      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/projectrevive.png",
       "mod_images": [],
       "mod_download_link": "https://download.here/file.zip",
       "mod_rootpath": "RAGEMP"
     },
     "mod2": {
-    "mod_name": "Phantom Redux max",
-    "mod_description": "description here",
-    "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/PhantomReduxMax.png",
+    "mod_name": "Phantom Redux Max",
+    "mod_description": "Phantom Redux Max is a dynamic PvP graphics mod for Grand Theft Auto V, designed to elevate the visual experience during player-versus-player gameplay. As depicted in the image, this mod enhances the nighttime urban setting with detailed city streets, illuminated "APT RENT" signs, and a mix of residential buildings under a dark, atmospheric sky. Featuring improved lighting, refined textures, and realistic elements like stop signs and palm trees, Phantom Redux Max provides a visually stunning and immersive battlefield, enhancing the competitive edge and aesthetic appeal for PvP encounters in Los Santos.",
+    "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/phantomreduxmax.png",
     "mod_images": [],
     "mod_download_link": "https://download.here/file.zip",
     "mod_rootpath": "RAGEMP"
