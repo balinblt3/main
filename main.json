@@ -1,0 +1,28 @@
+{
+  "graphics_mods": {
+    "mod1": {
+      "mod_name": "VisualV",
+      "mod_description": "description here",
+      "mod_thumbnail": "https://image.here/",
+      "mod_images": [
+        "image1url",
+        "image2url"
+      ],
+      "mod_download_link": "https://download.here/file.zip",
+      "mod_rootpath": "RAGEMP"
+    }
+  },
+  "mods": {
+    "mod1": {
+      "mod_name": "Pink Minimap",
+      "mod_description": "description here",
+      "mod_thumbnail": "https://image.here/",
+      "mod_images": [
+        "image1url",
+        "image2url"
+      ],
+      "mod_download_link": "https://download.here/file.zip",
+      "mod_rootpath": "RAGEMP"
+    }
+  }
+}
