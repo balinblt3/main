@@ -454,6 +454,59 @@
         "x64/textures/skydome.ytd",
         "x64/textures/water.ytd"
       ]
+    },
+    "mod3": {
+      "mod_name": "LA Roads Remastered",
+      "mod_description": "LA Roads Remastered gives Los Santos a complete street-level makeover, replacing outdated textures with ultra-detailed, high-definition asphalt, brick intersections, and authentic Los Angeles-style lane markings. Expect crisp road surfaces, realistic wear patterns, and vibrant urban detailing that make the city feel freshly paved and alive. Perfect for players chasing realism without sacrificing performance, this remaster blends seamlessly with other visual mods for a clean, modern aesthetic.",
+      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/laroadsremastered.png",
+      "mod_images": [
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/laroadsremastered1.jpg",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/laroadsremastered2.jpg",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/laroadsremastered3.jpg"
+      ],
+      "mod_download_link": "https://drive.google.com/file/d/1LAVx3laEtE08TvpscDN_aVRWAZGi9W7C/view?usp=sharing",
+      "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+      "size": "2.08GB",
+      "last_updated": "07.11.2025",
+      "version": "1.0",
+      "published_by": "Venx",
+      "install": [
+        "dlcpacks/Roads/dlc.rpf"
+      ],
+      "delete": [
+        "dlcpacks/Roads/dlc.rpf"
+      ],
+      "category": "Roads"
+    },
+    "mod4": {
+      "mod_name": "LS: Real Locations",
+      "mod_description": "LS: Real Locations brings the real-world landmarks and iconic storefronts of Los Santos into razor-sharp focus. This mod replaces generic generic-store facades with recognizable brands and textures, repositions and redesigns points of interest to more faithfully reflect their real-life counterparts, and altogether gives the city a layer of authenticity that doesn’t feel like just another flashy skin. Ideal for players who want immersion over spectacle.",
+      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/lsreallocations.jpg",
+      "mod_images": [
+        "https://api.ntw.graphics/storage/mods/2010/u11.jpg",
+        "https://api.ntw.graphics/storage/mods/2010/u4.jpg",
+        "https://api.ntw.graphics/storage/mods/2010/1.jpg",
+        "https://api.ntw.graphics/storage/mods/2010/4.jpg",
+        "https://api.ntw.graphics/storage/mods/2010/6.jpg",
+        "https://api.ntw.graphics/storage/mods/2010/7.jpg",
+        "https://api.ntw.graphics/storage/mods/2010/bxVHIW0Tc8.webp",
+        "https://api.ntw.graphics/storage/mods/2010/KSy5jgW7T8.webp",
+        "https://api.ntw.graphics/storage/mods/2010/RS66Lo3ICz.webp",
+        "https://api.ntw.graphics/storage/mods/2010/ehRMV9Ppl5.webp"
+      ],
+      "mod_download_link": "https://drive.google.com/file/d/1UB1CKZitTuGP_OQR1W4Gh9wm0tc9cAxg/view?usp=sharing",
+      "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+      "size": "377.0MB",
+      "last_updated": "07.11.2025",
+      "version": "1.0",
+      "published_by": "Venx",
+      "install": [
+        "dlcpacks/RealLocations/dlc.rpf"
+      ],
+      "delete": [
+        "dlcpacks/RealLocations/dlc.rpf"
+      ],
+      "category": "Mapping"
     }
   }
 }
