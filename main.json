@@ -692,6 +692,35 @@
       ],
       "category": "Graphics"
     },
+    "mod15": {
+      "mod_name": "Winter Festive Season",
+      "mod_description": "This mod completely transforms the atmosphere of Los Santos for the holidays. It's an immersive seasonal mapping overhaul that replaces standard streetlights across the map with festive Christmas streetlights. Additionally, it brings extensive Christmas mapping, adding props, decorations, and seasonal visuals throughout Los Santos.",
+      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs1.png",
+      "mod_images": [
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs2.jpg",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs3.jpg",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs4.jpg"
+      ],
+      "mod_download_link": "https://drive.google.com/file/d/1XasIwCfpXH0U7ZKJrM9Z_xuEGl6hIlNH/view?usp=sharing",
+      "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+      "size": "112.0MB",
+      "last_updated": "21.11.2025",
+      "version": "1.0",
+      "published_by": "Venx",
+      "install": [
+        "dlcpacks/WinterSeasonDLC/dlc.rpf",
+        "dlcpacks/WinterSeasonDLC2/dlc.rpf",
+        "dlcpacks/WinterSeasonDLC3/dlc.rpf",
+        "dlcpacks/WinterSeasonDLC4/dlc.rpf"
+      ],
+      "delete": [
+        "dlcpacks/WinterSeasonDLC/dlc.rpf",
+        "dlcpacks/WinterSeasonDLC2/dlc.rpf",
+        "dlcpacks/WinterSeasonDLC3/dlc.rpf",
+        "dlcpacks/WinterSeasonDLC4/dlc.rpf"
+      ],
+      "category": "Mapping"
+    },
     "mod4": {
       "mod_name": "LA Roads Remastered",
       "mod_description": "LA Roads Remastered gives Los Santos a complete street-level makeover, replacing outdated textures with ultra-detailed, high-definition asphalt, brick intersections, and authentic Los Angeles-style lane markings. Expect crisp road surfaces, realistic wear patterns, and vibrant urban detailing that make the city feel freshly paved and alive. Perfect for players chasing realism without sacrificing performance, this remaster blends seamlessly with other visual mods for a clean, modern aesthetic.",
@@ -739,12 +768,11 @@
       "mod_description": "LS: Real Locations brings the real-world landmarks and iconic storefronts of Los Santos into razor-sharp focus. This mod replaces generic generic-store facades with recognizable brands and textures, repositions and redesigns points of interest to more faithfully reflect their real-life counterparts, and altogether gives the city a layer of authenticity that doesn’t feel like just another flashy skin. Ideal for players who want immersion over spectacle.",
       "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/lsreallocations.jpg",
       "mod_images": [
-        "https://api.ntw.graphics/storage/mods/2010/u11.jpg",
-        "https://api.ntw.graphics/storage/mods/2010/u4.jpg",
-        "https://api.ntw.graphics/storage/mods/2010/1.jpg",
-        "https://api.ntw.graphics/storage/mods/2010/4.jpg",
-        "https://api.ntw.graphics/storage/mods/2010/6.jpg",
-        "https://api.ntw.graphics/storage/mods/2010/7.jpg"
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/lsrl1.jpg",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/lsrl2.jpg",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/lsrl3.jpg",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/lsrl4.jpg",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/lsrl5.jpg"
       ],
       "mod_download_link": "https://drive.google.com/file/d/1UB1CKZitTuGP_OQR1W4Gh9wm0tc9cAxg/view?usp=sharing",
       "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
@@ -860,6 +888,48 @@
       "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
       "size": "0.98MB",
       "last_updated": "07/11/2025",
+      "version": "1.0",
+      "published_by": "Venx",
+      "install": [
+        "raw/minimap.gfx",
+        "raw/minimap.ytd"
+      ],
+      "delete": [
+        "raw/minimap.gfx",
+        "raw/minimap.ytd"
+      ],
+      "category": "UI"
+    },
+    "mod13": {
+      "mod_name": "Minimap | Pink with Text",
+      "mod_description": "This mod is a focused quality-of-life and aesthetic enhancement for combat. It reskins the Health and Armor bars to a high-contrast pink/magenta color. Crucially, the mod implements a dynamic text display that instantly flashes the player's exact numerical Health Points (HP) when damage is taken, providing immediate and precise combat feedback.",
+      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/minimappinkwithtext.jpg",
+      "mod_images": [],
+      "mod_download_link": "https://drive.google.com/file/d/1b5bi5T7V3Lgzab9GncYqcwk5bt8Izj7b/view?usp=sharing",
+      "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+      "size": "884.0KB",
+      "last_updated": "21.11.2025",
+      "version": "1.0",
+      "published_by": "Venx",
+      "install": [
+        "raw/minimap.gfx",
+        "raw/minimap.ytd"
+      ],
+      "delete": [
+        "raw/minimap.gfx",
+        "raw/minimap.ytd"
+      ],
+      "category": "UI"
+    },
+    "mod14": {
+      "mod_name": "Minimap | Purple with Text",
+      "mod_description": "This mod is a focused quality-of-life and aesthetic enhancement for combat. It reskins the Health and Armor bars to a high-contrast pink/magenta color. Crucially, the mod implements a dynamic text display that instantly flashes the player's exact numerical Health Points (HP) when damage is taken, providing immediate and precise combat feedback.",
+      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/minimappurplewithtext.jpg",
+      "mod_images": [],
+      "mod_download_link": "https://drive.google.com/file/d/1JJHSRZl6gFkg-f4hXMHO1cVABNLiKDBZ/view?usp=sharing",
+      "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+      "size": "884.0KB",
+      "last_updated": "21.11.2025",
       "version": "1.0",
       "published_by": "Venx",
       "install": [
