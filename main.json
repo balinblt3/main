@@ -1291,6 +1291,30 @@
       },
       "category": "Graphics"
     },
+    "mod22": {
+      "mod_name": "Withoutyou Redux",
+      "mod_description": "",
+      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wyredux1.jpg",
+      "mod_images": [
+        "https://assets.venxmods.cc/videos/wyreduxvid.mp4",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wyredux2.jpg",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wyredux3.jpg"
+      ],
+      "mod_download_link": "https://drive.google.com/file/d/1bX327eFVkTWbXkO75sEOaazSO-bRTRXx/view?usp=sharing",
+      "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+      "size": "123.0MB",
+      "last_updated": "06/12/2025",
+      "version": "1.0",
+      "published_by": "Elemente",
+      "gtarockstarsupport": true,
+      "fix": {
+        "link": "",
+        "files": []
+      },
+      "install": [],
+      "delete": [],
+      "category": "Graphics"
+    },
     "mod15": {
       "mod_name": "Winter Festive Season",
       "mod_description": "This mod completely transforms the atmosphere of Los Santos for the holidays. It's an immersive seasonal mapping overhaul that replaces standard streetlights across the map with festive Christmas streetlights. Additionally, it brings extensive Christmas mapping, adding props, decorations, and seasonal visuals throughout Los Santos.",
