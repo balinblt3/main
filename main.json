@@ -1722,7 +1722,7 @@
     },
     "mod23": {
       "mod_name": "No Vegetation (Rockstar)",
-      "mod_description": "Uncompatible with GTA V purchased on Rockstar Games Launcher.\n\nThis mod removes grass and 30% of the vegetation. This mod is considered legal on servers like B-hood and it's safe to use.",
+      "mod_description": "This mod removes grass and 30% of the vegetation. This mod is considered legal on servers like B-hood and it's safe to use.",
       "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/novegrockstar.jpg",
       "mod_images": [
         "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg2.jpg"
@@ -1752,7 +1752,7 @@
     },
     "mod24": {
       "mod_name": "No Vegetation",
-      "mod_description": "Install this with the No Vegetation (Rockstar) in order to fully remove vegetation. This mod removes the leaves, grass, small bushes and small trees. This mod is considered legal on servers like B-hood and it's safe to use.",
+      "mod_description": "Uncompatible with GTA V purchased on Rockstar Games Launcher.\n\nInstall this with the No Vegetation (Rockstar) in order to fully remove vegetation. This mod removes the leaves, grass, small bushes and small trees. This mod is considered legal on servers like B-hood and it's safe to use.",
       "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg1.jpg",
       "mod_images": [
         "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg2.jpg"
