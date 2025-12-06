@@ -16,6 +16,7 @@
       "last_updated": "06.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "common/data/branchbend_maxshadersetting.xml",
         "common/data/branchbend_sfxwindsettings.xml",
@@ -228,6 +229,10 @@
         "x64/textures/skydome.ytd",
         "x64/textures/water.ytd"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Graphics"
     },
     "mod2": {
@@ -244,6 +249,7 @@
       "last_updated": "07.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "common/data/branchbend_maxshadersetting.xml",
         "common/data/branchbend_sfxwindsettings.xml",
@@ -458,6 +464,10 @@
         "x64/textures/skydome.ytd",
         "x64/textures/water.ytd"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Graphics"
     },
     "mod16": {
@@ -474,6 +484,7 @@
       "last_updated": "21.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "common/data/branchbend_maxshadersetting.xml",
         "common/data/branchbend_sfxwindsettings.xml",
@@ -686,6 +697,10 @@
         "x64/textures/skydome.ytd",
         "x64/textures/water.ytd"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Graphics"
     },
     "mod3": {
@@ -699,6 +714,7 @@
       "last_updated": "07/11/2025",
       "version": "1.1",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "common/data/branchbend_maxshadersetting.xml",
         "common/data/branchbend_sfxwindsettings.xml",
@@ -916,6 +932,10 @@
         "x64/textures/water.ytd",
         "x64/levels/gta5/cloudhats/v_clouds.rpf"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Graphics"
     },
     "mod20": {
@@ -929,6 +949,7 @@
       "last_updated": "29/11/2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "common/data/branchbend_maxshadersetting.xml",
         "common/data/branchbend_sfxwindsettings.xml",
@@ -1145,6 +1166,10 @@
         "x64/textures/skydome.ytd",
         "x64/textures/water.ytd"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Graphics"
     },
     "mod21": {
@@ -1161,6 +1186,7 @@
       "last_updated": "29/11/2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "common/data/cloudkeyframes.xml",
         "common/data/clouds.xml",
@@ -1259,6 +1285,10 @@
         "x64/textures/plantsmgr.ytd",
         "x64/textures/skydome.ytd"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Graphics"
     },
     "mod15": {
@@ -1276,6 +1306,7 @@
       "last_updated": "21.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "dlcpacks/WinterSeasonDLC/dlc.rpf",
         "dlcpacks/WinterSeasonDLC2/dlc.rpf",
@@ -1288,6 +1319,10 @@
         "dlcpacks/WinterSeasonDLC3/dlc.rpf",
         "dlcpacks/WinterSeasonDLC4/dlc.rpf"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Mapping"
     },
     "mod4": {
@@ -1305,12 +1340,17 @@
       "last_updated": "07.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "dlcpacks/Roads/dlc.rpf"
       ],
       "delete": [
         "dlcpacks/Roads/dlc.rpf"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Roads"
     },
     "mod5": {
@@ -1324,12 +1364,17 @@
       "last_updated": "07/11/2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "dlcpacks/Roads/dlc.rpf"
       ],
       "delete": [
         "dlcpacks/Roads/dlc.rpf"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Roads"
     },
     "mod6": {
@@ -1349,12 +1394,17 @@
       "last_updated": "07.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "dlcpacks/RealLocations/dlc.rpf"
       ],
       "delete": [
         "dlcpacks/RealLocations/dlc.rpf"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Mapping"
     },
     "mod7": {
@@ -1371,12 +1421,17 @@
       "last_updated": "07.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "x64/levels/gta5/props/roadside/v_utility.rpf"
       ],
       "delete": [
         "x64/levels/gta5/props/roadside/v_utility.rpf"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Mapping"
     },
     "mod8": {
@@ -1394,12 +1449,17 @@
       "last_updated": "07/11/2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "dlcpacks/Billboards/dlc.rpf"
       ],
       "delete": [
         "dlcpacks/Billboards/dlc.rpf"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Mapping"
     },
     "mod9": {
@@ -1417,6 +1477,7 @@
       "last_updated": "07.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "dlcpacks/fnbi_female/dlc.rpf",
         "dlcpacks/fnbi_male/dlc.rpf"
@@ -1425,6 +1486,10 @@
         "dlcpacks/fnbi_female/dlc.rpf",
         "dlcpacks/fnbi_male/dlc.rpf"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Appearance"
     },
     "mod10": {
@@ -1438,6 +1503,7 @@
       "last_updated": "07/11/2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "raw/minimap.gfx",
         "raw/minimap.ytd"
@@ -1446,6 +1512,10 @@
         "raw/minimap.gfx",
         "raw/minimap.ytd"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Minimap"
     },
     "mod11": {
@@ -1459,6 +1529,7 @@
       "last_updated": "07/11/2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "raw/minimap.gfx",
         "raw/minimap.ytd"
@@ -1467,6 +1538,10 @@
         "raw/minimap.gfx",
         "raw/minimap.ytd"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Minimap"
     },
     "mod13": {
@@ -1480,6 +1555,7 @@
       "last_updated": "21.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "raw/minimap.gfx",
         "raw/minimap.ytd"
@@ -1488,6 +1564,10 @@
         "raw/minimap.gfx",
         "raw/minimap.ytd"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Minimap"
     },
     "mod14": {
@@ -1501,6 +1581,7 @@
       "last_updated": "21.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "raw/minimap.gfx",
         "raw/minimap.ytd"
@@ -1509,6 +1590,10 @@
         "raw/minimap.gfx",
         "raw/minimap.ytd"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Minimap"
     },
     "mod17": {
@@ -1522,6 +1607,7 @@
       "last_updated": "29.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "raw/minimap.gfx",
         "raw/minimap.ytd"
@@ -1530,6 +1616,10 @@
         "raw/minimap.gfx",
         "raw/minimap.ytd"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Minimap"
     },
     "mod18": {
@@ -1543,6 +1633,7 @@
       "last_updated": "29.11.2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "raw/minimap.gfx",
         "raw/minimap.ytd"
@@ -1551,6 +1642,10 @@
         "raw/minimap.gfx",
         "raw/minimap.ytd"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Minimap"
     },
     "mod19": {
@@ -1564,12 +1659,17 @@
       "last_updated": "29/11/2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "raw/core.ypt"
       ],
       "delete": [
         "raw/core.ypt"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Hit Effects"
     },
     "mod12": {
@@ -1583,12 +1683,17 @@
       "last_updated": "07/11/2025",
       "version": "1.0",
       "published_by": "Venx",
+      "gtarockstarsupport": true,
       "install": [
         "raw/hud_reticle.gfx"
       ],
       "delete": [
         "raw/hud_reticle.gfx"
       ],
+      "fix": {
+        "link": "",
+        "files": []
+      },
       "category": "Crosshair"
     }
   }
