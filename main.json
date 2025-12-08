@@ -2282,16 +2282,16 @@
     },
     "mod23": {
       "mod_name": "No Vegetation (Rockstar)",
-      "mod_description": "This mod removes grass and 30% of the vegetation. This mod is considered legal on servers like B-hood and it's safe to use.",
+      "mod_description": "Important! To make this mod work, you have to go to graphics settings, and turn the Grass Quality to normal or lowest possible! \n\nThis mod removes grass and 30% of the vegetation. This mod is considered legal on servers like B-hood and it's safe to use.",
       "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/novegrockstar.jpg",
       "mod_images": [
         "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg2.jpg"
       ],
       "mod_download_link": "https://drive.google.com/file/d/17SJYCzUMnG_DlLdzTe17dYalkGJdYuXp/view?usp=sharing",
       "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
-      "size": "122.0MB",
-      "last_updated": "06/12/2025",
-      "version": "1.0",
+      "size": "168.0MB",
+      "last_updated": "08/12/2025",
+      "version": "1.1",
       "published_by": "Venx",
       "gtarockstarsupport": true,
       "fix": {
@@ -2299,11 +2299,10 @@
         "files": []
       },
       "install": [
-        "x64/levels/gta5/props/vegetation/v_bush.rpf",
-        "x64/levels/gta5/props/vegetation/v_crops.rpf",
-        "x64/levels/gta5/props/vegetation/v_ext_veg.rpf"
+        "dlcpacks/No_vegetation/dlc.rpf"
       ],
       "delete": [
+        "dlcpacks/No_vegetation/dlc.rpf",
         "x64/levels/gta5/props/vegetation/v_bush.rpf",
         "x64/levels/gta5/props/vegetation/v_crops.rpf",
         "x64/levels/gta5/props/vegetation/v_ext_veg.rpf"
