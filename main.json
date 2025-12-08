@@ -2282,7 +2282,7 @@
     },
     "mod23": {
       "mod_name": "No Vegetation (Rockstar)",
-      "mod_description": "Important! To make this mod work, you have to go to graphics settings, and turn the Grass Quality to normal or lowest possible! \n\nThis mod removes grass and 30% of the vegetation. This mod is considered legal on servers like B-hood and it's safe to use.",
+      "mod_description": "Important! To make this mod work, you have to go to graphics settings, and turn the Grass Quality to normal or lowest possible! \n\nThis mod removes grass and vegetation, but not tree leaves. This mod is considered legal on servers like B-hood and it's safe to use.",
       "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/novegrockstar.jpg",
       "mod_images": [
         "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg2.jpg"
