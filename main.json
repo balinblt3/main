@@ -2306,7 +2306,7 @@
     },
     "mod30": {
       "mod_name": "Minimap | Zoom 1.0x",
-      "mod_description": "Minimap | Zoom 1.0x, the standard close-in perspective.",
+      "mod_description": "Minimap | Zoom 1.0x, the standard close-in perspective. ",
       "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/zoom10.jpg",
       "mod_images": [],
       "mod_download_link": "https://drive.google.com/file/d/16HCoxxdcmJ5iiFs7qBd8DY_1GccDgrV1/view?usp=sharing",
