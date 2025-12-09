@@ -2232,6 +2232,102 @@
       },
       "category": "Minimap"
     },
+    "mod27": {
+      "mod_name": "Minimap | Zoom 0.25x",
+      "mod_description": "Minimap | Zoom 0.25x, showing a large area of the surroundings.",
+      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/zoom025.jpg",
+      "mod_images": [],
+      "mod_download_link": "https://drive.google.com/file/d/1MX5zuvqkhW8_l9UI7Fi7uGIu8GVQLQZx/view?usp=sharing",
+      "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+      "size": "1.86KB",
+      "last_updated": "09/12/2025",
+      "version": "1.0",
+      "published_by": "Venx",
+      "gtarockstarsupport": true,
+      "fix": {
+        "link": "",
+        "files": []
+      },
+      "install": [
+        "x64/data/tune/minimap.ymt"
+      ],
+      "delete": [
+        "x64/data/tune/minimap.ymt"
+      ],
+      "category": "Minimap Zoom"
+    },
+    "mod28": {
+      "mod_name": "Minimap | Zoom 0.50x",
+      "mod_description": "Minimap | Zoom 0.50x, offering a good balance of detail and area coverage.",
+      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/zoom050.jpg",
+      "mod_images": [],
+      "mod_download_link": "https://drive.google.com/file/d/1wwa8QtoFUrRY0XplcqRGXwJ3RF5Os3s3/view?usp=sharing",
+      "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+      "size": "1.86KB",
+      "last_updated": "09/12/2025",
+      "version": "1.0",
+      "published_by": "Venx",
+      "gtarockstarsupport": true,
+      "fix": {
+        "link": "",
+        "files": []
+      },
+      "install": [
+        "x64/data/tune/minimap.ymt"
+      ],
+      "delete": [
+        "x64/data/tune/minimap.ymt"
+      ],
+      "category": "Minimap Zoom"
+    },
+    "mod29": {
+      "mod_name": "Minimap | Zoom 0.75x",
+      "mod_description": "Minimap | Zoom 0.75x, slightly wider than the default.",
+      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/zoom075.jpg",
+      "mod_images": [],
+      "mod_download_link": "https://drive.google.com/file/d/1MMJMiJ3jly_KEci1HewK3qpIIO_Ly0l6/view?usp=sharing",
+      "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+      "size": "1.86KB",
+      "last_updated": "09/12/2025",
+      "version": "1.0",
+      "published_by": "Venx",
+      "gtarockstarsupport": true,
+      "fix": {
+        "link": "",
+        "files": []
+      },
+      "install": [
+        "x64/data/tune/minimap.ymt"
+      ],
+      "delete": [
+        "x64/data/tune/minimap.ymt"
+      ],
+      "category": "Minimap Zoom"
+    },
+    "mod30": {
+      "mod_name": "Minimap | Zoom 1.0x",
+      "mod_description": "Minimap | Zoom 1.0x, the standard close-in perspective.",
+      "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/zoom10.jpg",
+      "mod_images": [],
+      "mod_download_link": "https://drive.google.com/file/d/16HCoxxdcmJ5iiFs7qBd8DY_1GccDgrV1/view?usp=sharing",
+      "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+      "size": "1.86KB",
+      "last_updated": "09/12/2025",
+      "version": "1.0",
+      "published_by": "Venx",
+      "gtarockstarsupport": true,
+      "fix": {
+        "link": "",
+        "files": []
+      },
+      "install": [
+        "x64/data/tune/minimap.ymt"
+      ],
+      "delete": [
+        "x64/data/tune/minimap.ymt"
+      ],
+      "category": "Minimap Zoom"
+    },
     "mod19": {
       "mod_name": "Hit Effect | Tuffy",
       "mod_description": "This mod is the cosmetic component that visually triggers when the player successfully lands a hit on an enemy.\n\nIt replaces the standard, subtle particle effect of bullet or impact hits with a dramatic, stylized visual burst. Following the Tuffy aesthetic (pink, rebellious), the mod makes enemies visibly explode into a cloud of pink and white crosses (or similar \"girly-punk\" icons) upon taking damage. It's a fun, over-the-top, and highly noticeable change to combat feedback.",
