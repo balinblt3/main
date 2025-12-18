@@ -1877,36 +1877,44 @@
     },
     "mod15": {
       "mod_name": "Winter Festive Season",
-      "mod_description": "This mod completely transforms the atmosphere of Los Santos for the holidays. It's an immersive seasonal mapping overhaul that replaces standard streetlights across the map with festive Christmas streetlights. Additionally, it brings extensive Christmas mapping, adding props, decorations, and seasonal visuals throughout Los Santos.",
+      "mod_description": "December Update: Added various christmas-themed mapping mods such as wreath, custom christmas trees, garlands, snowmen and more.\n\nThis mod completely transforms the atmosphere of Los Santos for the holidays. It's an immersive seasonal mapping overhaul that replaces standard streetlights across the map with festive Christmas streetlights. Additionally, it brings extensive Christmas mapping, adding props, decorations, and seasonal visuals throughout Los Santos.",
       "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs1.png",
       "mod_images": [
         "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs2.jpg",
         "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs3.jpg",
-        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs4.jpg"
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs4.jpg",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs5.jpg",
+        "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs6.jpg"
       ],
       "mod_download_link": "https://drive.google.com/file/d/1XasIwCfpXH0U7ZKJrM9Z_xuEGl6hIlNH/view?usp=sharing",
       "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
-      "size": "112.0MB",
-      "last_updated": "21.11.2025",
-      "version": "1.0",
+      "size": "170.0MB",
+      "last_updated": "18.12.2025",
+      "version": "1.1",
       "published_by": "Venx",
       "gtarockstarsupport": true,
+      "fex": {
+        "link": "",
+        "fles": []
+      },
       "install": [
-        "dlcpacks/WinterSeasonDLC/dlc.rpf",
-        "dlcpacks/WinterSeasonDLC2/dlc.rpf",
-        "dlcpacks/WinterSeasonDLC3/dlc.rpf",
-        "dlcpacks/WinterSeasonDLC4/dlc.rpf"
+        "dlcpacks/dlc_winterfestiveseason1/dlc.rpf",
+        "dlcpacks/dlc_winterfestiveseason2/dlc.rpf",
+        "dlcpacks/dlc_winterfestiveseason3/dlc.rpf",
+        "dlcpacks/dlc_winterfestiveseason4/dlc.rpf",
+        "dlcpacks/dlc_winterfestiveseason5/dlc.rpf"
       ],
       "delete": [
+        "dlcpacks/dlc_winterfestiveseason1/dlc.rpf",
+        "dlcpacks/dlc_winterfestiveseason2/dlc.rpf",
+        "dlcpacks/dlc_winterfestiveseason3/dlc.rpf",
+        "dlcpacks/dlc_winterfestiveseason4/dlc.rpf",
+        "dlcpacks/dlc_winterfestiveseason5/dlc.rpf",
         "dlcpacks/WinterSeasonDLC/dlc.rpf",
         "dlcpacks/WinterSeasonDLC2/dlc.rpf",
         "dlcpacks/WinterSeasonDLC3/dlc.rpf",
         "dlcpacks/WinterSeasonDLC4/dlc.rpf"
       ],
-      "fix": {
-        "link": "",
-        "files": []
-      },
       "category": "Mapping"
     },
     "mod4": {
