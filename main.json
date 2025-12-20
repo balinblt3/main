@@ -1877,7 +1877,7 @@
     },
     "mod15": {
       "mod_name": "Winter Festive Season",
-      "mod_description": "December Update: Added various christmas-themed mapping mods such as wreath, custom christmas trees, garlands, snowmen and more.\n\nThis mod completely transforms the atmosphere of Los Santos for the holidays. It's an immersive seasonal mapping overhaul that replaces standard streetlights across the map with festive Christmas streetlights. Additionally, it brings extensive Christmas mapping, adding props, decorations, and seasonal visuals throughout Los Santos.",
+      "mod_description": "December Update: Added various christmas-themed mapping mods such as wreath, custom christmas trees, garlands, snowmen and more. Removed the frozen lake.\n\nThis mod completely transforms the atmosphere of Los Santos for the holidays. It's an immersive seasonal mapping overhaul that replaces standard streetlights across the map with festive Christmas streetlights. Additionally, it brings extensive Christmas mapping, adding props, decorations, and seasonal visuals throughout Los Santos.",
       "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs1.png",
       "mod_images": [
         "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/wfs2.jpg",
@@ -1890,7 +1890,7 @@
       "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
       "size": "170.0MB",
       "last_updated": "18.12.2025",
-      "version": "1.1",
+      "version": "1.2",
       "published_by": "Venx",
       "gtarockstarsupport": true,
       "fex": {
