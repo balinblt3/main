@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "download_url": "https://api.venxmods.cc/download",
-  "message": "Redesigned some parts of the application. Login with discord is required from now! We are collecting your discord session to maintain you logged in securely! Added reviews and download counter!"
+  "message": "Introducing Comunnity Chat inside the app! New dark neumorphism design. Security and bug fixes."
 }
