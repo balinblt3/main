@@ -5952,27 +5952,115 @@
             },
             "category": "Appearance"
         },
-        "mod_1766442155954": {
-            "mod_name": "Realistic Drift Smoke",
-            "mod_description": "Realistic Drift Smoke enhances your GTA experience with high-density, cinematic tire smoke designed for drifting enthusiasts. This mod replaces stock effects with thick, voluminous clouds that linger and react realistically, adding a professional layer of immersion to every slide and burnout.",
-            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1766442277_realisticdriftsmoke.jpg",
+        "mod_1767305400952": {
+            "mod_name": "Sakura Trees",
+            "mod_description": "Transform Los Santos into a serene, blooming landscape with the Sakura Trees vegetation mod. This standalone graphics enhancement replaces standard trees with vibrant cherry blossoms, adding a unique and picturesque aesthetic to the world.",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1767305499_sakuratrees.jpg",
             "mod_images": [
-                "https://assets.venxmods.cc/images/uploads/1766442521_hsrthrdthrth.jpg"
+                "https://assets.venxmods.cc/images/uploads/1767306142_6Ly7CcbLfp.jpg",
+                "https://assets.venxmods.cc/images/uploads/1767306145_owXw7SrrcP.jpg"
             ],
-            "mod_download_link": "https://drive.google.com/file/d/1REtyAcCRP7AeJZJ4rX0DAgteovNbXoRv/view?usp=sharing",
-            "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
-            "size": "4.47KB",
+            "mod_download_link": "https://drive.google.com/file/d/1eCaCkYXtoa09pzv-Kca9sTO0qEWTWFHS/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/dlcpacks",
+            "size": "403.0MB",
             "version": "1.0",
             "published_by": "Venx",
-            "last_updated": "23.12.2025",
-            "category": "Appearance",
+            "last_updated": "02/01/2026",
+            "category": "Vegetation",
             "gtarockstarsupport": true,
             "install": [
-                "common/data/effects/wheelfx.dat"
+                "dlc_sakuratrees/dlc.rpf"
             ],
             "delete": [
-                "common/data/effects/wheelfx.dat"
-            ]
+                "dlc_sakuratrees/dlc.rpf"
+            ],
+            "downloads": 0
+        },
+        "mod_1767305812060": {
+            "mod_name": "4K Vegetation",
+            "mod_description": "Elevate your environment with the 4K Vegetation Mod, a comprehensive graphics overhaul that replaces all flora in Los Santos and Blaine County with high-resolution textures. This mod completely reworks trees, palms, bushes, coniferous trees, and fine ground foliage for incredible detail. It features a custom LOD (Level of Detail) system to balance the performance impact and transforms Sandy Shores into a lush, green landscape.",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1767305998_4kveg.jpg",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1767306001_4.png",
+                "https://assets.venxmods.cc/images/uploads/1767306003_5.png",
+                "https://assets.venxmods.cc/images/uploads/1767306006_7.png",
+                "https://assets.venxmods.cc/images/uploads/1767306008_8.png",
+                "https://assets.venxmods.cc/images/uploads/1767306011_2.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1b-KttqB3WTkK5n8KZaNIAtrs8tpXPFpZ/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/dlcpacks",
+            "size": "1.25GB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "02/01/2026",
+            "category": "Vegetation",
+            "gtarockstarsupport": true,
+            "install": [
+                "dlc_4kvegetation/dlc.rpf"
+            ],
+            "delete": [
+                "dlc_4kvegetation/dlc.rpf"
+            ],
+            "downloads": 0
+        },
+        "mod23": {
+            "mod_name": "No Vegetation (Rockstar)",
+            "mod_description": "Important! To make this mod work, you have to go to graphics settings, and turn the Grass Quality to normal or lowest possible! \n\nThis mod removes grass and vegetation, but not tree leaves. This mod is considered legal on servers like B-hood and it's safe to use.",
+            "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/novegrockstar.jpg",
+            "mod_images": [
+                "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg2.jpg"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/17SJYCzUMnG_DlLdzTe17dYalkGJdYuXp/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+            "size": "168.1MB",
+            "last_updated": "08/12/2025",
+            "version": "1.2",
+            "published_by": "Venx",
+            "gtarockstarsupport": true,
+            "fix": {
+                "link": "",
+                "files": []
+            },
+            "install": [
+                "dlcpacks/No_vegetation/dlc.rpf",
+                "x64/models/plantsmgr.ydd"
+            ],
+            "delete": [
+                "dlcpacks/No_vegetation/dlc.rpf",
+                "x64/models/plantsmgr.ydd",
+                "x64/levels/gta5/props/vegetation/v_bush.rpf",
+                "x64/levels/gta5/props/vegetation/v_crops.rpf",
+                "x64/levels/gta5/props/vegetation/v_ext_veg.rpf"
+            ],
+            "category": "Vegetation"
+        },
+        "mod24": {
+            "mod_name": "No Vegetation",
+            "mod_description": "Uncompatible with GTA V purchased on Rockstar Games Launcher.\n\nInstall this with the No Vegetation (Rockstar) in order to fully remove vegetation. This mod removes the leaves, grass, small bushes and small trees. This mod is considered legal on servers like B-hood and it's safe to use.",
+            "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg1.jpg",
+            "mod_images": [
+                "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg2.jpg"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1u81PVJAfcEyR9OV1vegNsxQoxUg9aqo5/view?usp=sharing",
+            "mod_rootpath": "GTAV",
+            "size": "26.4MB",
+            "last_updated": "06/12/2025",
+            "version": "1.0",
+            "published_by": "Venx",
+            "gtarockstarsupport": false,
+            "fix": {
+                "link": "https://drive.google.com/file/d/1U0-mDmb96UJQScrL5e0g8GwdUZq7Gtk1/view?usp=sharing",
+                "files": [
+                    "common.rpf"
+                ]
+            },
+            "install": [
+                "common.rpf"
+            ],
+            "delete": [
+                "common.rpf"
+            ],
+            "category": "Vegetation"
         },
         "mod10": {
             "mod_name": "Minimap | Winter",
@@ -6273,65 +6361,6 @@
                 "files": []
             },
             "category": "Crosshair"
-        },
-        "mod23": {
-            "mod_name": "No Vegetation (Rockstar)",
-            "mod_description": "Important! To make this mod work, you have to go to graphics settings, and turn the Grass Quality to normal or lowest possible! \n\nThis mod removes grass and vegetation, but not tree leaves. This mod is considered legal on servers like B-hood and it's safe to use.",
-            "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/novegrockstar.jpg",
-            "mod_images": [
-                "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg2.jpg"
-            ],
-            "mod_download_link": "https://drive.google.com/file/d/17SJYCzUMnG_DlLdzTe17dYalkGJdYuXp/view?usp=sharing",
-            "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
-            "size": "168.1MB",
-            "last_updated": "08/12/2025",
-            "version": "1.2",
-            "published_by": "Venx",
-            "gtarockstarsupport": true,
-            "fix": {
-                "link": "",
-                "files": []
-            },
-            "install": [
-                "dlcpacks/No_vegetation/dlc.rpf",
-                "x64/models/plantsmgr.ydd"
-            ],
-            "delete": [
-                "dlcpacks/No_vegetation/dlc.rpf",
-                "x64/models/plantsmgr.ydd",
-                "x64/levels/gta5/props/vegetation/v_bush.rpf",
-                "x64/levels/gta5/props/vegetation/v_crops.rpf",
-                "x64/levels/gta5/props/vegetation/v_ext_veg.rpf"
-            ],
-            "category": "Vegetation"
-        },
-        "mod24": {
-            "mod_name": "No Vegetation",
-            "mod_description": "Uncompatible with GTA V purchased on Rockstar Games Launcher.\n\nInstall this with the No Vegetation (Rockstar) in order to fully remove vegetation. This mod removes the leaves, grass, small bushes and small trees. This mod is considered legal on servers like B-hood and it's safe to use.",
-            "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg1.jpg",
-            "mod_images": [
-                "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg2.jpg"
-            ],
-            "mod_download_link": "https://drive.google.com/file/d/1u81PVJAfcEyR9OV1vegNsxQoxUg9aqo5/view?usp=sharing",
-            "mod_rootpath": "GTAV",
-            "size": "26.4MB",
-            "last_updated": "06/12/2025",
-            "version": "1.0",
-            "published_by": "Venx",
-            "gtarockstarsupport": false,
-            "fix": {
-                "link": "https://drive.google.com/file/d/1U0-mDmb96UJQScrL5e0g8GwdUZq7Gtk1/view?usp=sharing",
-                "files": [
-                    "common.rpf"
-                ]
-            },
-            "install": [
-                "common.rpf"
-            ],
-            "delete": [
-                "common.rpf"
-            ],
-            "category": "Vegetation"
         }
     }
 }
