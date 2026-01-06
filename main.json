@@ -5922,6 +5922,36 @@
             },
             "category": "Mapping"
         },
+        "mod_1767713872368": {
+            "mod_name": "Faces Remastered",
+            "mod_description": "Faces Remastered is a high-definition overhaul for GTA V that replaces vanilla character textures with realistic, high-fidelity skin shaders and detailed facial features. It enhances pores, eyes, and hair rendering to bring NPC and player models up to modern graphical standards, making them look significantly more lifelike for roleplay and cinematics.",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1767714403_facesremastered.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1767714410_hrthdrthrdh.jpg",
+                "https://assets.venxmods.cc/images/uploads/1767714412_hdrthdtrdjhy.jpg",
+                "https://assets.venxmods.cc/images/uploads/1767714415_hgrdthdrt.jpg",
+                "https://assets.venxmods.cc/images/uploads/1767714418_hrthdrtjdtyt.jpg",
+                "https://assets.venxmods.cc/images/uploads/1767714419_dtrjhtyjy.jpg",
+                "https://assets.venxmods.cc/images/uploads/1767714421_htrdhdrthdr.jpg"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/14kqYw2imiEX82nAy6nWMt5ykgbpjKtYz/view?usp=sharing",
+            "mod_rootpath": "RAGEMP",
+            "size": "224.0MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "06/01/2026",
+            "category": "Appearance",
+            "gtarockstarsupport": true,
+            "install": [
+                "dlcpacks/dlc_facesremastered_female/dlc.rpf",
+                "dlcpacks/dlc_facesremastered_male/dlc.rpf"
+            ],
+            "delete": [
+                "dlcpacks/dlc_facesremastered_female/dlc.rpf",
+                "dlcpacks/dlc_facesremastered_male/dlc.rpf"
+            ],
+            "downloads": 0
+        },
         "mod9": {
             "mod_name": "Face and Body++",
             "mod_description": "Face and Body Improvements overhauls character models with refined facial textures, enhanced skin detail, and subtle anatomical updates for both male and female characters. Expect sharper features, realistic complexion tones, visible muscle definition, and reimagined body mapping that modernizes GTA V’s character visuals without breaking immersion. It’s a tasteful evolution of the game’s look—more lifelike, less plastic.",
