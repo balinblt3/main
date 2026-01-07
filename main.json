@@ -5813,6 +5813,31 @@
             },
             "category": "Roads"
         },
+        "mod_1767744828437": {
+            "mod_name": "Monaco Roads",
+            "mod_description": "Monaco Roads is a high-quality texture mod for GTA 5 and FiveM that replaces the default Los Santos road surfaces with premium, clean asphalt inspired by European streets. It covers approximately 95% of the game map, providing sharp 4K textures, improved normal maps for realistic depth, and high-fidelity LODs (Level of Detail) to ensure the roads look crisp even from a distance. This mod is widely used in roleplay and cinematic setups to give the city a more modern, \"first-world\" aesthetic compared to the original weathered textures.",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1767745108_hrtdhtdh.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1767744991_rthtdhdrhdrtgh.png",
+                "https://assets.venxmods.cc/images/uploads/1767744994_hdtrhdtghrdftghdr.png",
+                "https://assets.venxmods.cc/images/uploads/1767745112_hrthdthrdhrfhd.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1hAwkIZJsAIt5x1WAWZODw9qQpWcMEOO4/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+            "size": "3.18MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "07/01/2026",
+            "category": "Roads",
+            "gtarockstarsupport": true,
+            "install": [
+                "dlcpacks/Roads/dlc.rpf"
+            ],
+            "delete": [
+                "dlcpacks/Roads/dlc.rpf"
+            ],
+            "downloads": 0
+        },
         "mod5": {
             "mod_name": "Europe Roads",
             "mod_description": "Europe Roads transforms Los Santos with authentic European-style road textures, markings, and asphalt patterns. From crisp lane dividers to realistic tarmac wear, it brings a continental vibe to every drive—perfect for players who want Los Santos to feel more like Paris than Pacific Coast Highway.",
