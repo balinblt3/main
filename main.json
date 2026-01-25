@@ -6054,7 +6054,7 @@
         },
         "mod23": {
             "mod_name": "No Vegetation (Rockstar)",
-            "mod_description": "Important! To make this mod work, you have to go to graphics settings, and turn the Grass Quality to normal or lowest possible! \n\nThis mod removes grass and vegetation, but not tree leaves. This mod is considered legal on servers like B-hood and it's safe to use.",
+            "mod_description": "Do not use this mod for PvP uses (Clan/Gang Wars, Clan Drop, Clan Rob etc.) on B-HOOD Server.\n Important! To make this mod work, you have to go to graphics settings, and turn the Grass Quality to normal or lowest possible! \n\nThis mod removes grass and vegetation, but not tree leaves. This mod is considered legal on servers like B-hood and it's safe to use.",
             "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/novegrockstar.jpg",
             "mod_images": [
                 "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg2.jpg"
@@ -6085,7 +6085,7 @@
         },
         "mod24": {
             "mod_name": "No Vegetation",
-            "mod_description": "Uncompatible with GTA V purchased on Rockstar Games Launcher.\n\nInstall this with the No Vegetation (Rockstar) in order to fully remove vegetation. This mod removes the leaves, grass, small bushes and small trees. This mod is considered legal on servers like B-hood and it's safe to use.",
+            "mod_description": "Do not use this mod for PvP uses (Clan/Gang Wars, Clan Drop, Clan Rob etc.) on B-HOOD Server.\n Uncompatible with GTA V purchased on Rockstar Games Launcher.\n\nInstall this with the No Vegetation (Rockstar) in order to fully remove vegetation. This mod removes the leaves, grass, small bushes and small trees. This mod is considered legal on servers like B-hood and it's safe to use.",
             "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg1.jpg",
             "mod_images": [
                 "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/noveg2.jpg"
