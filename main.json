@@ -6410,6 +6410,933 @@
                 "files": []
             },
             "category": "Crosshair"
+        },
+        "mod_1769712933796": {
+            "mod_name": "Advanced RIfle | Pathfinder",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769713269_1769713121480-019c0b1e-da53-7ce8-9f18-b0987e0f39d4.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769713273_1769713121480-019c0b1e-da53-7ce8-9f18-b0987e0f39d4.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1VXOu59OhNioxpfbt7TJunQ9mteqVQRQS/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "10.2MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "30/01/2026",
+            "category": "Advanced Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_advancedrifle+hi.ytd",
+                "w_ar_advancedrifle.ydr",
+                "w_ar_advancedrifle.ytd",
+                "w_ar_advancedrifle_hi.ydr",
+                "w_ar_advancedrifle_mag1+hi.ytd",
+                "w_ar_advancedrifle_mag1.ydr",
+                "w_ar_advancedrifle_mag1.ytd",
+                "w_ar_advancedrifle_mag2+hi.ytd",
+                "w_ar_advancedrifle_mag2.ydr",
+                "w_ar_advancedrifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_advancedrifle+hi.ytd",
+                "w_ar_advancedrifle.ydr",
+                "w_ar_advancedrifle.ytd",
+                "w_ar_advancedrifle_hi.ydr",
+                "w_ar_advancedrifle_mag1+hi.ytd",
+                "w_ar_advancedrifle_mag1.ydr",
+                "w_ar_advancedrifle_mag1.ytd",
+                "w_ar_advancedrifle_mag2+hi.ytd",
+                "w_ar_advancedrifle_mag2.ydr",
+                "w_ar_advancedrifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769713304570": {
+            "mod_name": "Advanced Rifle | Nightwood",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769713637_1769713615370-019c0b26-67cd-753d-ac7e-08c408dd9b58.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769713641_1769713615370-019c0b26-67cd-753d-ac7e-08c408dd9b58.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1bEHiWys9Y_A7Zs8Yr6vqN4ge96i7Eb3I/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "10.2MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "Advanced Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_advancedrifle+hi.ytd",
+                "w_ar_advancedrifle.ydr",
+                "w_ar_advancedrifle.ytd",
+                "w_ar_advancedrifle_hi.ydr",
+                "w_ar_advancedrifle_mag1+hi.ytd",
+                "w_ar_advancedrifle_mag1.ydr",
+                "w_ar_advancedrifle_mag1.ytd",
+                "w_ar_advancedrifle_mag2+hi.ytd",
+                "w_ar_advancedrifle_mag2.ydr",
+                "w_ar_advancedrifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_advancedrifle+hi.ytd",
+                "w_ar_advancedrifle.ydr",
+                "w_ar_advancedrifle.ytd",
+                "w_ar_advancedrifle_hi.ydr",
+                "w_ar_advancedrifle_mag1+hi.ytd",
+                "w_ar_advancedrifle_mag1.ydr",
+                "w_ar_advancedrifle_mag1.ytd",
+                "w_ar_advancedrifle_mag2+hi.ytd",
+                "w_ar_advancedrifle_mag2.ydr",
+                "w_ar_advancedrifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769713645501": {
+            "mod_name": "AP Pistol | Blackout",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769713790_1769713680399-019c0b27-64b6-7834-b10f-5b02788ac183.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769713794_1769713680399-019c0b27-64b6-7834-b10f-5b02788ac183.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1Apzr6LAIgTy2bXkM-nxVS8wS5s9cmdYU/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "10.7MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "AP Pistol",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_pi_appistol+hi.ytd",
+                "w_pi_appistol.ydr",
+                "w_pi_appistol.ytd",
+                "w_pi_appistol_hi.ydr",
+                "w_pi_appistol_mag1.ydr",
+                "w_pi_appistol_mag1.ytd",
+                "w_pi_appistol_mag2.ydr",
+                "w_pi_appistol_mag2.ytd"
+            ],
+            "delete": [
+                "w_pi_appistol+hi.ytd",
+                "w_pi_appistol.ydr",
+                "w_pi_appistol.ytd",
+                "w_pi_appistol_hi.ydr",
+                "w_pi_appistol_mag1.ydr",
+                "w_pi_appistol_mag1.ytd",
+                "w_pi_appistol_mag2.ydr",
+                "w_pi_appistol_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769713815638": {
+            "mod_name": "AP Pistol | Cartoon",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769714156_1769714107055-019c0b2d-d4f3-7d14-99ca-a3321ff0636f.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769714161_1769714107055-019c0b2d-d4f3-7d14-99ca-a3321ff0636f.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/10xC4skS5Qo2vXq--oTwHQsZnO364tRRL/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "1.73MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "AP Pistol",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_pi_appistol+hi.ytd",
+                "w_pi_appistol.ydr",
+                "w_pi_appistol.ytd",
+                "w_pi_appistol_hi.ydr",
+                "w_pi_appistol_mag1.ydr",
+                "w_pi_appistol_mag1.ytd",
+                "w_pi_appistol_mag2.ydr",
+                "w_pi_appistol_mag2.ytd"
+            ],
+            "delete": [
+                "w_pi_appistol+hi.ytd",
+                "w_pi_appistol.ydr",
+                "w_pi_appistol.ytd",
+                "w_pi_appistol_hi.ydr",
+                "w_pi_appistol_mag1.ydr",
+                "w_pi_appistol_mag1.ytd",
+                "w_pi_appistol_mag2.ydr",
+                "w_pi_appistol_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769714336771": {
+            "mod_name": "AP Pistol | Night",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769714517_1769714391922-019c0b32-342c-7ba4-8d9f-6129693210b5.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769714490_1769714391922-019c0b32-342c-7ba4-8d9f-6129693210b5.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/14Zk-AO2v9Q6f-a3wqMfkfw6XKWc65S-A/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "1.96MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "AP Pistol",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_pi_appistol+hi.ytd",
+                "w_pi_appistol.ydr",
+                "w_pi_appistol.ytd",
+                "w_pi_appistol_hi.ydr",
+                "w_pi_appistol_mag1.ydr",
+                "w_pi_appistol_mag1.ytd",
+                "w_pi_appistol_mag2.ydr",
+                "w_pi_appistol_mag2.ytd"
+            ],
+            "delete": [
+                "w_pi_appistol+hi.ytd",
+                "w_pi_appistol.ydr",
+                "w_pi_appistol.ytd",
+                "w_pi_appistol_hi.ydr",
+                "w_pi_appistol_mag1.ydr",
+                "w_pi_appistol_mag1.ytd",
+                "w_pi_appistol_mag2.ydr",
+                "w_pi_appistol_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769714525687": {
+            "mod_name": "AP Pistol | Prism",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769714686_1769714590470-019c0b35-3dd7-796f-a33c-c39b23694b84.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769714691_1769714590470-019c0b35-3dd7-796f-a33c-c39b23694b84.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1qTiRCnSxVRfJXWznLmO8hWmHHG8IOwwb/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "2.87MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_pi_appistol+hi.ytd",
+                "w_pi_appistol.ydr",
+                "w_pi_appistol.ytd",
+                "w_pi_appistol_hi.ydr",
+                "w_pi_appistol_mag1.ydr",
+                "w_pi_appistol_mag1.ytd",
+                "w_pi_appistol_mag2.ydr",
+                "w_pi_appistol_mag2.ytd"
+            ],
+            "delete": [
+                "w_pi_appistol+hi.ytd",
+                "w_pi_appistol.ydr",
+                "w_pi_appistol.ytd",
+                "w_pi_appistol_hi.ydr",
+                "w_pi_appistol_mag1.ydr",
+                "w_pi_appistol_mag1.ytd",
+                "w_pi_appistol_mag2.ydr",
+                "w_pi_appistol_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769714736996": {
+            "mod_name": "Assault Rifle | Bloodsport",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769715011_1769714915713-019c0b39-fe5f-74a2-8664-cf0aac8b222a.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769715013_1769714915713-019c0b39-fe5f-74a2-8664-cf0aac8b222a.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1KGlkOxUfUa-6J4NXpxFu8dtROf57CeSF/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "20.7MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "Assault Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_assaultrifle+hi.ytd",
+                "w_ar_assaultrifle.ydr",
+                "w_ar_assaultrifle.ytd",
+                "w_ar_assaultriflemk2.ydr",
+                "w_ar_assaultriflemk2.ytd",
+                "w_ar_assaultriflemk2_hi.ydr",
+                "w_ar_assaultriflemk2_mag1.ydr",
+                "w_ar_assaultriflemk2_mag1.ytd",
+                "w_ar_assaultriflemk2_mag2.ydr",
+                "w_ar_assaultriflemk2_mag2.ytd",
+                "w_ar_assaultrifle_hi.ydr",
+                "w_ar_assaultrifle_mag1.ydr",
+                "w_ar_assaultrifle_mag1.ytd",
+                "w_ar_assaultrifle_mag2.ydr",
+                "w_ar_assaultrifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_assaultrifle+hi.ytd",
+                "w_ar_assaultrifle.ydr",
+                "w_ar_assaultrifle.ytd",
+                "w_ar_assaultriflemk2.ydr",
+                "w_ar_assaultriflemk2.ytd",
+                "w_ar_assaultriflemk2_hi.ydr",
+                "w_ar_assaultriflemk2_mag1.ydr",
+                "w_ar_assaultriflemk2_mag1.ytd",
+                "w_ar_assaultriflemk2_mag2.ydr",
+                "w_ar_assaultriflemk2_mag2.ytd",
+                "w_ar_assaultrifle_hi.ydr",
+                "w_ar_assaultrifle_mag1.ydr",
+                "w_ar_assaultrifle_mag1.ytd",
+                "w_ar_assaultrifle_mag2.ydr",
+                "w_ar_assaultrifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769714918410": {
+            "mod_name": "Assault Rifle | Crimson",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769715240_1769715210099-019c0b3e-b320-7a57-8351-bd8b9393cfa7.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769715243_1769715210099-019c0b3e-b320-7a57-8351-bd8b9393cfa7.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1E6rVxMtbh6cuqgl7b3HRxXiXRO5mhWOR/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "35.8MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "Assault Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_assaultrifle+hi.ytd",
+                "w_ar_assaultrifle.ydr",
+                "w_ar_assaultrifle.ytd",
+                "w_ar_assaultriflemk2.ydr",
+                "w_ar_assaultriflemk2.ytd",
+                "w_ar_assaultriflemk2_hi.ydr",
+                "w_ar_assaultriflemk2_mag1.ydr",
+                "w_ar_assaultriflemk2_mag1.ytd",
+                "w_ar_assaultriflemk2_mag2.ydr",
+                "w_ar_assaultriflemk2_mag2.ytd",
+                "w_ar_assaultrifle_hi.ydr",
+                "w_ar_assaultrifle_mag1.ydr",
+                "w_ar_assaultrifle_mag1.ytd",
+                "w_ar_assaultrifle_mag2.ydr",
+                "w_ar_assaultrifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_assaultrifle+hi.ytd",
+                "w_ar_assaultrifle.ydr",
+                "w_ar_assaultrifle.ytd",
+                "w_ar_assaultriflemk2.ydr",
+                "w_ar_assaultriflemk2.ytd",
+                "w_ar_assaultriflemk2_hi.ydr",
+                "w_ar_assaultriflemk2_mag1.ydr",
+                "w_ar_assaultriflemk2_mag1.ytd",
+                "w_ar_assaultriflemk2_mag2.ydr",
+                "w_ar_assaultriflemk2_mag2.ytd",
+                "w_ar_assaultrifle_hi.ydr",
+                "w_ar_assaultrifle_mag1.ydr",
+                "w_ar_assaultrifle_mag1.ytd",
+                "w_ar_assaultrifle_mag2.ydr",
+                "w_ar_assaultrifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769715261310": {
+            "mod_name": "Assault Rifle | Lavender",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769715380_1769715340434-019c0b40-b721-7e40-9943-090373abd4ed.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769715374_1769715340434-019c0b40-b721-7e40-9943-090373abd4ed.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1Gn6QL2gf6Yqt9054HO0YH2cYjT8uh3dM/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "47.1MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "Assault Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_assaultrifle+hi.ytd",
+                "w_ar_assaultrifle.ydr",
+                "w_ar_assaultrifle.ytd",
+                "w_ar_assaultriflemk2.ydr",
+                "w_ar_assaultriflemk2.ytd",
+                "w_ar_assaultriflemk2_hi.ydr",
+                "w_ar_assaultriflemk2_mag1.ydr",
+                "w_ar_assaultriflemk2_mag1.ytd",
+                "w_ar_assaultriflemk2_mag2.ydr",
+                "w_ar_assaultriflemk2_mag2.ytd",
+                "w_ar_assaultrifle_hi.ydr",
+                "w_ar_assaultrifle_mag1.ydr",
+                "w_ar_assaultrifle_mag1.ytd",
+                "w_ar_assaultrifle_mag2.ydr",
+                "w_ar_assaultrifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_assaultrifle+hi.ytd",
+                "w_ar_assaultrifle.ydr",
+                "w_ar_assaultrifle.ytd",
+                "w_ar_assaultriflemk2.ydr",
+                "w_ar_assaultriflemk2.ytd",
+                "w_ar_assaultriflemk2_hi.ydr",
+                "w_ar_assaultriflemk2_mag1.ydr",
+                "w_ar_assaultriflemk2_mag1.ytd",
+                "w_ar_assaultriflemk2_mag2.ydr",
+                "w_ar_assaultriflemk2_mag2.ytd",
+                "w_ar_assaultrifle_hi.ydr",
+                "w_ar_assaultrifle_mag1.ydr",
+                "w_ar_assaultrifle_mag1.ytd",
+                "w_ar_assaultrifle_mag2.ydr",
+                "w_ar_assaultrifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769715553933": {
+            "mod_name": "Assault Rifle | Recharge",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769715653_1769715639648-019c0b45-3863-75ec-ba6c-04c754b590c4.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769715656_1769715639648-019c0b45-3863-75ec-ba6c-04c754b590c4.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/19gTiPKDS_vNtN8BsIpFXEq5gx5UaLWqe/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "36.9MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "Assault Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_assaultrifle+hi.ytd",
+                "w_ar_assaultrifle.ydr",
+                "w_ar_assaultrifle.ytd",
+                "w_ar_assaultriflemk2.ydr",
+                "w_ar_assaultriflemk2.ytd",
+                "w_ar_assaultriflemk2_hi.ydr",
+                "w_ar_assaultriflemk2_mag1.ydr",
+                "w_ar_assaultriflemk2_mag1.ytd",
+                "w_ar_assaultriflemk2_mag2.ydr",
+                "w_ar_assaultriflemk2_mag2.ytd",
+                "w_ar_assaultrifle_hi.ydr",
+                "w_ar_assaultrifle_mag1.ydr",
+                "w_ar_assaultrifle_mag1.ytd",
+                "w_ar_assaultrifle_mag2.ydr",
+                "w_ar_assaultrifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_assaultrifle+hi.ytd",
+                "w_ar_assaultrifle.ydr",
+                "w_ar_assaultrifle.ytd",
+                "w_ar_assaultriflemk2.ydr",
+                "w_ar_assaultriflemk2.ytd",
+                "w_ar_assaultriflemk2_hi.ydr",
+                "w_ar_assaultriflemk2_mag1.ydr",
+                "w_ar_assaultriflemk2_mag1.ytd",
+                "w_ar_assaultriflemk2_mag2.ydr",
+                "w_ar_assaultriflemk2_mag2.ytd",
+                "w_ar_assaultrifle_hi.ydr",
+                "w_ar_assaultrifle_mag1.ydr",
+                "w_ar_assaultrifle_mag1.ytd",
+                "w_ar_assaultrifle_mag2.ydr",
+                "w_ar_assaultrifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769715680425": {
+            "mod_name": "Assault Rifle | Sakura",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769715886_1769715811989-019c0b47-1d66-79e9-9954-ff3a9dafa167.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769715891_1769715811989-019c0b47-1d66-79e9-9954-ff3a9dafa167.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1InGxRI6WOtpDfFVbi__VcgFOS2HwBf9q/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "40.9MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "Assault Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_assaultrifle+hi.ytd",
+                "w_ar_assaultrifle.ydr",
+                "w_ar_assaultrifle.ytd",
+                "w_ar_assaultriflemk2.ydr",
+                "w_ar_assaultriflemk2.ytd",
+                "w_ar_assaultriflemk2_hi.ydr",
+                "w_ar_assaultriflemk2_mag1.ydr",
+                "w_ar_assaultriflemk2_mag1.ytd",
+                "w_ar_assaultriflemk2_mag2.ydr",
+                "w_ar_assaultriflemk2_mag2.ytd",
+                "w_ar_assaultrifle_hi.ydr",
+                "w_ar_assaultrifle_mag1.ydr",
+                "w_ar_assaultrifle_mag1.ytd",
+                "w_ar_assaultrifle_mag2.ydr",
+                "w_ar_assaultrifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_assaultrifle+hi.ytd",
+                "w_ar_assaultrifle.ydr",
+                "w_ar_assaultrifle.ytd",
+                "w_ar_assaultriflemk2.ydr",
+                "w_ar_assaultriflemk2.ytd",
+                "w_ar_assaultriflemk2_hi.ydr",
+                "w_ar_assaultriflemk2_mag1.ydr",
+                "w_ar_assaultriflemk2_mag1.ytd",
+                "w_ar_assaultriflemk2_mag2.ydr",
+                "w_ar_assaultriflemk2_mag2.ytd",
+                "w_ar_assaultrifle_hi.ydr",
+                "w_ar_assaultrifle_mag1.ydr",
+                "w_ar_assaultrifle_mag1.ytd",
+                "w_ar_assaultrifle_mag2.ydr",
+                "w_ar_assaultrifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769715854773": {
+            "mod_name": "Carabine Rifle | Acid",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769716002_1769715971411-019c0b4a-5850-7ca7-9fb3-4c9ab6252aa1.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769716006_1769715971411-019c0b4a-5850-7ca7-9fb3-4c9ab6252aa1.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1_e53sLB6mEgxwo9ouKg4nZp6JdWzIWUH/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "69.3MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "Carabine Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_carbinerifle+hi.ytd",
+                "w_ar_carbinerifle.ydr",
+                "w_ar_carbinerifle.ytd",
+                "w_ar_carbineriflemk2.ydr",
+                "w_ar_carbineriflemk2.ytd",
+                "w_ar_carbineriflemk2_hi.ydr",
+                "w_ar_carbineriflemk2_mag1.ydr",
+                "w_ar_carbineriflemk2_mag1.ytd",
+                "w_ar_carbineriflemk2_mag2.ydr",
+                "w_ar_carbineriflemk2_mag2.ytd",
+                "w_ar_carbinerifle_hi.ydr",
+                "w_ar_carbinerifle_mag1.ydr",
+                "w_ar_carbinerifle_mag1.ytd",
+                "w_ar_carbinerifle_mag2.ydr",
+                "w_ar_carbinerifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_carbinerifle+hi.ytd",
+                "w_ar_carbinerifle.ydr",
+                "w_ar_carbinerifle.ytd",
+                "w_ar_carbineriflemk2.ydr",
+                "w_ar_carbineriflemk2.ytd",
+                "w_ar_carbineriflemk2_hi.ydr",
+                "w_ar_carbineriflemk2_mag1.ydr",
+                "w_ar_carbineriflemk2_mag1.ytd",
+                "w_ar_carbineriflemk2_mag2.ydr",
+                "w_ar_carbineriflemk2_mag2.ytd",
+                "w_ar_carbinerifle_hi.ydr",
+                "w_ar_carbinerifle_mag1.ydr",
+                "w_ar_carbinerifle_mag1.ytd",
+                "w_ar_carbinerifle_mag2.ydr",
+                "w_ar_carbinerifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769721928344": {
+            "mod_name": "Carabine Rifle | Barbed",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769721999_gemini-3-pro-image-preview_a_Use_the_attached_ima.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769722006_gemini-3-pro-image-preview_a_Use_the_attached_ima.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1PbRK3Mb4oI_ExR5_jdDFPbvnl-e3s0_d/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "12.6MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "Carabine Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_carbinerifle+hi.ytd",
+                "w_ar_carbinerifle.ydr",
+                "w_ar_carbinerifle.ytd",
+                "w_ar_carbineriflemk2.ydr",
+                "w_ar_carbineriflemk2.ytd",
+                "w_ar_carbineriflemk2_hi.ydr",
+                "w_ar_carbineriflemk2_mag1.ydr",
+                "w_ar_carbineriflemk2_mag1.ytd",
+                "w_ar_carbineriflemk2_mag2.ydr",
+                "w_ar_carbineriflemk2_mag2.ytd",
+                "w_ar_carbinerifle_hi.ydr",
+                "w_ar_carbinerifle_mag1.ydr",
+                "w_ar_carbinerifle_mag1.ytd",
+                "w_ar_carbinerifle_mag2.ydr",
+                "w_ar_carbinerifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_carbinerifle+hi.ytd",
+                "w_ar_carbinerifle.ydr",
+                "w_ar_carbinerifle.ytd",
+                "w_ar_carbineriflemk2.ydr",
+                "w_ar_carbineriflemk2.ytd",
+                "w_ar_carbineriflemk2_hi.ydr",
+                "w_ar_carbineriflemk2_mag1.ydr",
+                "w_ar_carbineriflemk2_mag1.ytd",
+                "w_ar_carbineriflemk2_mag2.ydr",
+                "w_ar_carbineriflemk2_mag2.ytd",
+                "w_ar_carbinerifle_hi.ydr",
+                "w_ar_carbinerifle_mag1.ydr",
+                "w_ar_carbinerifle_mag1.ytd",
+                "w_ar_carbinerifle_mag2.ydr",
+                "w_ar_carbinerifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769722070883": {
+            "mod_name": "Carabine Rifle | Bloody",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769723064_1769723038843-019c0bb6-2534-72d6-9fdf-1de684b0164c.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769723067_1769723038843-019c0bb6-2534-72d6-9fdf-1de684b0164c.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1h17lFr-CaECQRwihKy6TwvDBBUwhwISN/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "44.2MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "Carabine Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_carbinerifle+hi.ytd",
+                "w_ar_carbinerifle.ydr",
+                "w_ar_carbinerifle.ytd",
+                "w_ar_carbineriflemk2.ydr",
+                "w_ar_carbineriflemk2.ytd",
+                "w_ar_carbineriflemk2_hi.ydr",
+                "w_ar_carbineriflemk2_mag1.ydr",
+                "w_ar_carbineriflemk2_mag1.ytd",
+                "w_ar_carbineriflemk2_mag2.ydr",
+                "w_ar_carbineriflemk2_mag2.ytd",
+                "w_ar_carbinerifle_hi.ydr",
+                "w_ar_carbinerifle_mag1.ydr",
+                "w_ar_carbinerifle_mag1.ytd",
+                "w_ar_carbinerifle_mag2.ydr",
+                "w_ar_carbinerifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_carbinerifle+hi.ytd",
+                "w_ar_carbinerifle.ydr",
+                "w_ar_carbinerifle.ytd",
+                "w_ar_carbineriflemk2.ydr",
+                "w_ar_carbineriflemk2.ytd",
+                "w_ar_carbineriflemk2_hi.ydr",
+                "w_ar_carbineriflemk2_mag1.ydr",
+                "w_ar_carbineriflemk2_mag1.ytd",
+                "w_ar_carbineriflemk2_mag2.ydr",
+                "w_ar_carbineriflemk2_mag2.ytd",
+                "w_ar_carbinerifle_hi.ydr",
+                "w_ar_carbinerifle_mag1.ydr",
+                "w_ar_carbinerifle_mag1.ytd",
+                "w_ar_carbinerifle_mag2.ydr",
+                "w_ar_carbinerifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769723074059": {
+            "mod_name": "Carabine Rifle | Howl",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769723156_1769723141055-019c0bb7-ba97-7d5b-a77e-b2cc0aa8f928.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769723159_1769723141055-019c0bb7-ba97-7d5b-a77e-b2cc0aa8f928.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1Em0t4o3SB-UWMBVS97N-7x_szEOs6Msq/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "40.1MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "Carabine Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_carbinerifle+hi.ytd",
+                "w_ar_carbinerifle.ydr",
+                "w_ar_carbinerifle.ytd",
+                "w_ar_carbineriflemk2.ydr",
+                "w_ar_carbineriflemk2.ytd",
+                "w_ar_carbineriflemk2_hi.ydr",
+                "w_ar_carbineriflemk2_mag1.ydr",
+                "w_ar_carbineriflemk2_mag1.ytd",
+                "w_ar_carbineriflemk2_mag2.ydr",
+                "w_ar_carbineriflemk2_mag2.ytd",
+                "w_ar_carbinerifle_hi.ydr",
+                "w_ar_carbinerifle_mag1.ydr",
+                "w_ar_carbinerifle_mag1.ytd",
+                "w_ar_carbinerifle_mag2.ydr",
+                "w_ar_carbinerifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_carbinerifle+hi.ytd",
+                "w_ar_carbinerifle.ydr",
+                "w_ar_carbinerifle.ytd",
+                "w_ar_carbineriflemk2.ydr",
+                "w_ar_carbineriflemk2.ytd",
+                "w_ar_carbineriflemk2_hi.ydr",
+                "w_ar_carbineriflemk2_mag1.ydr",
+                "w_ar_carbineriflemk2_mag1.ytd",
+                "w_ar_carbineriflemk2_mag2.ydr",
+                "w_ar_carbineriflemk2_mag2.ytd",
+                "w_ar_carbinerifle_hi.ydr",
+                "w_ar_carbinerifle_mag1.ydr",
+                "w_ar_carbinerifle_mag1.ytd",
+                "w_ar_carbinerifle_mag2.ydr",
+                "w_ar_carbinerifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769723240371": {
+            "mod_name": "Carabine Rifle | Neo Noir",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769723810_1769723796623-019c0bc1-c0d3-77d4-9780-0e26b3cc2508.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769723819_1769723796623-019c0bc1-c0d3-77d4-9780-0e26b3cc2508.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/126Y8TgdMsDysDH1mhUaKYrQwNUby5W8C/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "39.9MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "29/01/2026",
+            "category": "Carabine Rifle",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_ar_carbinerifle+hi.ytd",
+                "w_ar_carbinerifle.ydr",
+                "w_ar_carbinerifle.ytd",
+                "w_ar_carbineriflemk2.ydr",
+                "w_ar_carbineriflemk2.ytd",
+                "w_ar_carbineriflemk2_hi.ydr",
+                "w_ar_carbineriflemk2_mag1.ydr",
+                "w_ar_carbineriflemk2_mag1.ytd",
+                "w_ar_carbineriflemk2_mag2.ydr",
+                "w_ar_carbineriflemk2_mag2.ytd",
+                "w_ar_carbinerifle_hi.ydr",
+                "w_ar_carbinerifle_mag1.ydr",
+                "w_ar_carbinerifle_mag1.ytd",
+                "w_ar_carbinerifle_mag2.ydr",
+                "w_ar_carbinerifle_mag2.ytd"
+            ],
+            "delete": [
+                "w_ar_carbinerifle+hi.ytd",
+                "w_ar_carbinerifle.ydr",
+                "w_ar_carbinerifle.ytd",
+                "w_ar_carbineriflemk2.ydr",
+                "w_ar_carbineriflemk2.ytd",
+                "w_ar_carbineriflemk2_hi.ydr",
+                "w_ar_carbineriflemk2_mag1.ydr",
+                "w_ar_carbineriflemk2_mag1.ytd",
+                "w_ar_carbineriflemk2_mag2.ydr",
+                "w_ar_carbineriflemk2_mag2.ytd",
+                "w_ar_carbinerifle_hi.ydr",
+                "w_ar_carbinerifle_mag1.ydr",
+                "w_ar_carbinerifle_mag1.ytd",
+                "w_ar_carbinerifle_mag2.ydr",
+                "w_ar_carbinerifle_mag2.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769723901219": {
+            "mod_name": "Knife | Barbed",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769724022_1769724003462-019c0bc4-e54a-77a6-9ab6-19c6b728e217.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769724025_1769724003462-019c0bc4-e54a-77a6-9ab6-19c6b728e217.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1jseQR-Iu9VpwJK_0pO4CIRcFU1Vh5gE2/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "7.21MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "30/01/2026",
+            "category": "Knife",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "delete": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769724033893": {
+            "mod_name": "Knife | Autotronic",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769724389_1769724251802-019c0bc8-b2fd-7ab7-bcf1-0152b9feba41.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769724393_1769724251802-019c0bc8-b2fd-7ab7-bcf1-0152b9feba41.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1gGNdGQRPYJqlI4LuGBHKaTYtp3rgzvPR/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "3.30MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "30/01/2026",
+            "category": "Knife",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "delete": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769724193978": {
+            "mod_name": "Knife | Black",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769724529_1769724434094-019c0bcb-0b14-78b9-8652-6dbc5dbd8afd.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769724522_1769724434094-019c0bcb-0b14-78b9-8652-6dbc5dbd8afd.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1qk5FLq-Bpha9z4341VDPpuP_koP9gAeE/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "7.8MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "30/01/2026",
+            "category": "Knife",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "delete": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769724415427": {
+            "mod_name": "Knife | Neon Katana",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769724582_1769724549910-019c0bcc-cf5f-7a1b-a647-d8c714bbf039.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769724587_1769724549910-019c0bcc-cf5f-7a1b-a647-d8c714bbf039.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/19PZtKAw4mMCywGd6MbaSYmrMOE5Lctdm/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "1.2MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "30/01/2026",
+            "category": "Knife",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "delete": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769724592920": {
+            "mod_name": "Knife | Diamond Sword",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769724717_1769724673898-019c0bcf-116f-7586-b63a-6d2549b7a6f2.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769724723_1769724673898-019c0bcf-116f-7586-b63a-6d2549b7a6f2.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1e1klkI8WvCToLG4lz_XIpM81wWrr7yhE/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "1.1MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "30/01/2026",
+            "category": "Knife",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "delete": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769724753165": {
+            "mod_name": "Knife | Katana",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769725264_1769725213188-019c0bd7-470e-7d16-97c5-5e9d9f280fad.png",
+            "mod_images": [],
+            "mod_download_link": "https://drive.google.com/file/d/1HKckf0aLgnJfKjDVztCFIbwjrSzt_UaC/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "3.64MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "30/01/2026",
+            "category": "Knife",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "delete": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "downloads": 0
+        },
+        "mod_1769725272402": {
+            "mod_name": "Knife | Night",
+            "mod_description": "",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1769725930_1769725900313-019c0be1-ddbc-76b2-8b41-8b6c34d0331f.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1769725934_1769725900313-019c0be1-ddbc-76b2-8b41-8b6c34d0331f.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1XDf_skA96vA1KEikjYIWI9Xp3P6Ou27J/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources/raw",
+            "size": "1.0MB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "30/01/2026",
+            "category": "Knife",
+            "gtarockstarsupport": true,
+            "install": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "delete": [
+                "w_me_knife_01+hi.ytd",
+                "w_me_knife_01.ydr",
+                "w_me_knife_01.ytd"
+            ],
+            "downloads": 0
         }
     }
 }
