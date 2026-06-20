@@ -6370,6 +6370,32 @@
             ],
             "category": "Mapping"
         },
+        "mod_1781970768012": {
+            "mod_name": "Forza Horizon 6 Roads",
+            "mod_description": "Transform Los Santos with a high-fidelity texture overhaul that brings the vibrant, clean look of Forza Horizon 6 Roads straight to your game. This mod completely replaces the aging vanilla asphalt with ultra-clean, high-resolution dark tarmac, featuring striking red-and-white stylized crosswalks, custom-colored brick intersections, and pristine highways. It's the ultimate visual upgrade for car meets, high-speed cruises, and cinematic showcases.\n\nBig thumbs up for FALK!",
+            "mod_thumbnail": "https://assets.venxmods.cc/images/uploads/1781971207_fz6roads.png",
+            "mod_images": [
+                "https://assets.venxmods.cc/images/uploads/1781972401_fz6roads2.png",
+                "https://assets.venxmods.cc/images/uploads/1781972404_fz6roads3.png",
+                "https://assets.venxmods.cc/images/uploads/1781972408_fz6roads4.png",
+                "https://assets.venxmods.cc/images/uploads/1781972413_fz6roads5.png"
+            ],
+            "mod_download_link": "https://drive.google.com/file/d/1lfWupIzfUiJJidb8Mmt-Tua6EpOZXu4b/view?usp=sharing",
+            "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
+            "size": "2.44GB",
+            "version": "1.0",
+            "published_by": "Venx",
+            "last_updated": "20/06/2026",
+            "category": "Roads",
+            "gtarockstarsupport": true,
+            "install": [
+                "dlcpacks/Roads/dlc.rpf"
+            ],
+            "delete": [
+                "dlcpacks/Roads/dlc.rpf"
+            ],
+            "downloads": 0
+        },
         "mod_1773791938706": {
             "mod_name": "Kaws Roads",
             "mod_description": "The Kaws Roads mod for GTA V replaces standard asphalt with high-contrast black textures and unique cobblestone patterns, infused with Brian Donnelly’s iconic street art. Sidewalks and intersections are transformed into a pop-art gallery. This mod creates a vibrant, modern aesthetic that blends gritty urban realism with contemporary high-fashion imagery.",
@@ -6476,7 +6502,7 @@
         },
         "mod6": {
             "mod_name": "LS: Real Locations",
-            "mod_description": "LS: Real Locations brings the real-world landmarks and iconic storefronts of Los Santos into razor-sharp focus. This mod replaces generic generic-store facades with recognizable brands and textures, repositions and redesigns points of interest to more faithfully reflect their real-life counterparts, and altogether gives the city a layer of authenticity that doesn’t feel like just another flashy skin. Ideal for players who want immersion over spectacle.",
+            "mod_description": "June 2026 Update: Added more locations\n\nLS: Real Locations brings the real-world landmarks and iconic storefronts of Los Santos into razor-sharp focus. This mod replaces generic generic-store facades with recognizable brands and textures, repositions and redesigns points of interest to more faithfully reflect their real-life counterparts, and altogether gives the city a layer of authenticity that doesn’t feel like just another flashy skin. Ideal for players who want immersion over spectacle.",
             "mod_thumbnail": "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/lsreallocations.jpg",
             "mod_images": [
                 "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/lsrl1.jpg",
@@ -6485,11 +6511,11 @@
                 "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/lsrl4.jpg",
                 "https://raw.githubusercontent.com/balinblt3/main/refs/heads/main/lsrl5.jpg"
             ],
-            "mod_download_link": "https://drive.google.com/file/d/1UB1CKZitTuGP_OQR1W4Gh9wm0tc9cAxg/view?usp=sharing",
+            "mod_download_link": "https://drive.google.com/file/d/1m102jS3PI0aBNPUPofbpCfMoaFhi_yi1/view?usp=sharing",
             "mod_rootpath": "RAGEMP/user_resources/global/game_resources",
-            "size": "377.0MB",
-            "last_updated": "07.11.2025",
-            "version": "1.0",
+            "size": "420.0MB",
+            "last_updated": "20/06/2026",
+            "version": "1.1",
             "published_by": "Venx",
             "gtarockstarsupport": true,
             "install": [
@@ -6502,7 +6528,8 @@
                 "link": "",
                 "files": []
             },
-            "category": "Mapping"
+            "category": "Mapping",
+            "downloads": 0
         },
         "mod7": {
             "mod_name": "ATMs Reimagined",
