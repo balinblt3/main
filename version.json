@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "download_url": "https://api.venxmods.cc/download",
-  "message": "FiveM support added!"
+  "message": "FiveM support added! Bugfix for new users."
 }
