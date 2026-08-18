@@ -1,5 +1,7 @@
 {
   "version": "2.1.4",
+  "venxcore_version": "1.2.0",
+  "venxcore_download_url": "https://assets.venxmods.cc/dependencies/venxcore/VenxCore.exe",
   "download_url": "https://api.venxmods.cc/download",
   "message": "FiveM support added! Bugfix for new users."
 }
