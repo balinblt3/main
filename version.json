@@ -1,6 +1,6 @@
 {
   "version": "2.1.7",
-  "venxcore_version": "1.2.2",
+  "venxcore_version": "1.2.3",
   "venxcore_download_url": "https://assets.venxmods.cc/dependencies/venxcore/VenxCore.exe",
   "download_url": "https://api.venxmods.cc/download",
   "message": "Bugfix for new users."
