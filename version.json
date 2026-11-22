@@ -1,7 +1,7 @@
 {
-  "version": "2.5.8",
-  "venxcore_version": "1.3.5",
-  "venxcore_download_url": "https://assets.venxmods.cc/dependencies/venxcore/VenxCore.exe",
+  "version": "2.5.9",
+  "venxcore_version": "2.2.5",
+  "venxcore_download_url": "https://assets.venxmods.cc/dependencies/venxcore/2.2.5/VenxCore.exe",
   "download_url": "https://api.venxmods.cc/download",
-  "message": "Addeed seasonal app themes, fixed some bugs."
+  "message": "Addeed seasonal app themes, fixed some security bugs."
 }
